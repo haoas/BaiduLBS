@@ -1,0 +1,5 @@
+E:\项目源码\Xamarim.Android\BaiduLBS\BaiduLBS\bin\Release\BaiduLBS.dll
+E:\项目源码\Xamarim.Android\BaiduLBS\BaiduLBS\bin\Release\BaiduLBS.pdb
+E:\项目源码\Xamarim.Android\BaiduLBS\BaiduLBS\obj\Release\BaiduLBS.csprojResolveAssemblyReference.cache
+E:\项目源码\Xamarim.Android\BaiduLBS\BaiduLBS\obj\Release\BaiduLBS.dll
+E:\项目源码\Xamarim.Android\BaiduLBS\BaiduLBS\obj\Release\BaiduLBS.pdb
